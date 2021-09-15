@@ -33,8 +33,10 @@ Este repositório usa a linguagem de programação VBA, entre os conceitos abord
 
 ## 👨‍🏫 Professores
 
-- Fábio Pereira da Silva
-- Claudio Benossi
+<pre>
+° Fábio Pereira da Silva
+° Claudio Benossi
+</pre>
 
 ---
 
