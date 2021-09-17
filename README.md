@@ -12,6 +12,10 @@
 
 ## 👨‍🎨 Visual
 
+![image](https://user-images.githubusercontent.com/78516563/133439470-ec229f6e-c53a-4f61-8a43-a9c51dee7103.png)
+![image](https://user-images.githubusercontent.com/78516563/133439539-7d2441af-3600-48d4-be4c-9d128b6998f8.png)
+![image](https://user-images.githubusercontent.com/78516563/133439614-d43c844d-5cc0-4d4f-b8ff-3e324123162c.png)
+![image](https://user-images.githubusercontent.com/78516563/133439637-fba0131f-d974-4a81-b51c-f8d955f713aa.png)
 
 
 ## 💻 Repositório
